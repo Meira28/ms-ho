@@ -1,0 +1,9 @@
+.env
+
+package-lock.json*
+
+/node_modules
+
+/readme.md*
+
+/.DS_Store
